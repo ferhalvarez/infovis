@@ -1,6 +1,6 @@
 # infovis
 
-### Acceso a internet por pais y brecha de género:
+### Acceso a internet por país y brecha de género:
 [Makeovermonday w44/2020 - Tableau](https://ferhalvarez.github.io/infovis/w44_tableau.html)
 
 ### Links Markdown:
