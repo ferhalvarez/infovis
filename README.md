@@ -4,9 +4,8 @@
 [Makeovermonday w44/2020 - Tableau](https://ferhalvarez.github.io/infovis/w44_tableau.html)
 
 ### Gasto en publicidad por tipo de medio
-[Makeovermonday w46/2020 - Tableau](https://ferhalvarez.github.io/infovis/w46_tableau.html)
-
-[Expanded Streamgraph](https://ferhalvarez.github.io/infovis/w46_rawgraph.html)
+*[Makeovermonday w46/2020 - Tableau](https://ferhalvarez.github.io/infovis/w46_tableau.html)
+*[Expanded Streamgraph - Rawgraphs](https://ferhalvarez.github.io/infovis/w46_rawgraph.html)
 
 ### Links Markdown:
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
