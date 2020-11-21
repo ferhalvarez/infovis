@@ -8,7 +8,12 @@
 * [Expanded Streamgraph - Rawgraphs](https://ferhalvarez.github.io/infovis/w46_rawgraph.html)
 * [Barchart race - Flourish](https://ferhalvarez.github.io/infovis/w46_flourish.html)
 
+### Favs y retweets de los medios
+[Favs y retweets de los medios - Vega Lite](https://ferhalvarez.github.io/infovis/fav_y_RTs.html)
+
 ### Links Markdown:
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 * [Guía ](https://guides.github.com/features/mastering-markdown/)
 * [Guía pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
