@@ -17,7 +17,7 @@
 * [Guía pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ### Presentación trabajo final del módulo
-* Visualizacón realizada con la herramienta Tableau: 
+**Visualizacón realizada con la herramienta Tableau:**
 - [Uso del tiempo en la práctica del teclado y estudio de idiomas](https://ferhalvarez.github.io/infovis/TP_final.html)
 
 
